@@ -1,4 +1,0 @@
-CC65_DIR   := ${HOME}/work/projects/8Bit/devtools/cc65
-OSDK_DIR   := ${HOME}/work/projects/8Bit/devtools/osdk
-EMUL_DIR   := ${HOME}/work/projects/8Bit/emulators/oricutron-build
-COMMON_DIR := ${HOME}/work/projects/8Bit/work/common
