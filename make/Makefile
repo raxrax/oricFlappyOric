@@ -35,7 +35,7 @@ $(PROJECT)_ADDRESS      := $(START_ADDRESS)
 $(PROJECT)_ACPP         := 1
 
 #
-include Makefile.local
+include                 ${HOME}/.oric/Makefile.local
 
 OSDK                    := $(OSDK_DIR)
 OSDK_OPT                := 0
